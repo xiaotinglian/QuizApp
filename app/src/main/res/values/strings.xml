@@ -5,4 +5,6 @@
     <string name="enter_your_name">Enter Your Name</string>
     <string name="e_g_jhon">e.g.Jhon</string>
     <string name="quest_image">quest Image</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
 </resources>
